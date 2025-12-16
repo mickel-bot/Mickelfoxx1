@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/mickel-bot">Front-end Developer</a></h1>
+<h1>Hi, I'm Mickel! <br/><a href="https://github.com/mickel-bot">Front-end Developer</a></h1>
 
  
 
