@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/mickel-bot">Front-end Developer</a></h1>
 
- - [Active Lab](https://github.com/mickel-bot/ActiveLab))
+ - [Active Lab](https://github.com/mickel-bot/ActiveLab)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
